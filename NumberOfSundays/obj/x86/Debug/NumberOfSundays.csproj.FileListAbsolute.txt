@@ -1,0 +1,5 @@
+D:\day3\NumberOfSundays\NumberOfSundays\bin\Debug\NumberOfSundays.exe
+D:\day3\NumberOfSundays\NumberOfSundays\bin\Debug\NumberOfSundays.pdb
+D:\day3\NumberOfSundays\NumberOfSundays\obj\x86\Debug\NumberOfSundays.exe
+D:\day3\NumberOfSundays\NumberOfSundays\obj\x86\Debug\NumberOfSundays.pdb
+D:\day3\NumberOfSundays\NumberOfSundays\obj\x86\Debug\NumberOfSundays.csprojResolveAssemblyReference.cache
